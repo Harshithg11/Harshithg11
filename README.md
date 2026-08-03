@@ -29,13 +29,8 @@ I enjoy working with **Spring Boot, Spring Security, JWT Authentication, MongoDB
 ---
 
 ## 💻 Tech Stack
----
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithg11&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,mongodb,maven,git,github,postman,idea" />
 </p>
 
@@ -57,6 +52,9 @@ A secure backend application built using **Spring Boot** that allows users to ma
 - 🍃 MongoDB Atlas Database
 - 🔑 BCrypt Password Encryption
 
+🔗 **Repository:**  
+https://github.com/Harshithg11/journal-management-system
+
 ---
 
 ## 🎯 Current Goal
@@ -68,7 +66,7 @@ Preparing for **Software Engineering** roles by building real-world backend appl
 ## 📫 Connect with Me
 
 - 📧 Email: **harshithgajula360@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/feed/**
+- 💼 LinkedIn: **https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/**
 - 🌐 GitHub: https://github.com/Harshithg11
 
 ---
