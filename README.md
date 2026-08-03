@@ -62,8 +62,8 @@ Preparing for **Software Engineering** roles by building real-world backend appl
 
 ## 📫 Connect with Me
 
-- 📧 Email: **your-email@example.com**
-- 💼 LinkedIn: **Add your LinkedIn profile here**
+- 📧 Email: **harshithgajula360@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/feed/**
 - 🌐 GitHub: https://github.com/Harshithg11
 
 ---
