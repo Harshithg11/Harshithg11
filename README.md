@@ -29,6 +29,18 @@ I enjoy working with **Spring Boot, Spring Security, JWT Authentication, MongoDB
 ---
 
 ## 💻 Tech Stack
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshithg11&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshithg11&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithg11&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,mongodb,maven,git,github,postman,idea" />
