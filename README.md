@@ -6,34 +6,66 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Secure+REST+APIs;Learning+DSA+for+Placements" alt="Typing SVG" />
 </p>
 
-## 🚀 Java Backend Developer
+---
 
-I'm passionate about building secure and scalable backend applications using Java and Spring Boot.
+## 👨‍💻 About Me
 
-### 🌱 Currently Learning
+I'm a passionate **Java Backend Developer** focused on building secure, scalable, and RESTful backend applications using **Spring Boot**.
 
-- Spring Boot
-- Spring Security
-- JWT Authentication
-- MongoDB
-- REST APIs
-- Data Structures & Algorithms
+I'm currently strengthening my backend development skills while improving my **Data Structures & Algorithms** for software engineering roles.
 
-### 💻 Tech Stack
-
-- Java 17
-- Spring Boot
-- Spring Security
-- JWT Authentication
-- MongoDB Atlas
-- REST APIs
-- Maven
-- Git & GitHub
-- Postman
-
-### 🎯 Current Goal
-
-Preparing for Software Engineering roles by building real-world backend projects and strengthening my Data Structures & Algorithms skills.
+I enjoy working with **Spring Boot, Spring Security, JWT Authentication, MongoDB Atlas, and REST APIs.**
 
 ---
-⭐ Thanks for visiting my profile!
+
+## 🌱 Currently Learning
+
+- Spring Boot Advanced Concepts
+- Spring Security & JWT Authentication
+- Data Structures & Algorithms
+- Backend System Design
+- Database Design
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,maven,git,github,postman,idea" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 📓 Journal Management System
+
+A secure backend application built using **Spring Boot** that allows users to manage personal journal entries with authentication and role-based authorization.
+
+### Features
+
+- 🔐 JWT Authentication
+- 🛡️ Spring Security
+- 👤 User Registration & Login
+- 📝 Journal CRUD Operations
+- 🌦️ WeatherStack API Integration
+- 🍃 MongoDB Atlas Database
+- 🔑 BCrypt Password Encryption
+
+---
+
+## 🎯 Current Goal
+
+Preparing for **Software Engineering** roles by building real-world backend applications and mastering **Java Backend Development**.
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: **your-email@example.com**
+- 💼 LinkedIn: **Add your LinkedIn profile here**
+- 🌐 GitHub: https://github.com/Harshithg11
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
