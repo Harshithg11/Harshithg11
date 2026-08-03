@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋, I'm Harshith
 
-<!--
-**Harshithg11/Harshithg11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Java Backend Developer
 
-Here are some ideas to get you started:
+I'm passionate about building secure and scalable backend applications using Java and Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+
+- Spring Boot
+- Spring Security
+- JWT Authentication
+- MongoDB
+- REST APIs
+- Data Structures & Algorithms
+
+### 💻 Tech Stack
+
+- Java 17
+- Spring Boot
+- Spring Security
+- JWT Authentication
+- MongoDB Atlas
+- REST APIs
+- Maven
+- Git & GitHub
+- Postman
+
+### 🎯 Current Goal
+
+Preparing for Software Engineering roles by building real-world backend projects and strengthening my Data Structures & Algorithms skills.
+
+---
+⭐ Thanks for visiting my profile!
